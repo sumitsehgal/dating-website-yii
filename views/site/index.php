@@ -1,4 +1,4 @@
-<?php
+mbjhdkfsl<?php
 
 /* @var $this yii\web\View */
 
